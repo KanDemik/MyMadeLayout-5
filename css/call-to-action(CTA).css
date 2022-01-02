@@ -1,0 +1,75 @@
+.cta-a-button {
+	width: 157px;
+	height: 53px;
+	background-color: rgba(64, 128, 191, 1);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-radius: 10px;
+	margin: auto;
+}
+
+.cta-testimony {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.cta-testimony-cont {
+	display: flex;
+	text-align: center;
+}
+
+.cta-testimony-cont span {
+	font-size: 28px;
+	font-family: "Poppins-Bold";
+	line-height: 40px;
+	margin: 0;
+}
+
+.cta-testimony-cont p {
+	margin: 0;
+}
+
+.cta-test-clients {
+	border-left: 2px solid #FFF;
+	border-right: 2px solid #FFF;
+	width: 239px;
+	margin-right: 30px;
+}
+
+.cta-test-projects {
+	border-left: 2px solid #FFF;
+	border-right: 2px solid #FFF;
+	width: 239px;
+	margin-right: 30px;
+}
+
+.cta-test-awards {
+	border-left: 2px solid #FFF;
+	border-right: 2px solid #FFF;
+	width: 239px;
+}
+
+.cta-title h2 {
+	text-align: center;
+	font-size: 50px;
+	font-family: "Poppins-ExtraBold";
+	line-height: 80px;
+	width: 647px;
+	margin: auto;
+	margin-bottom: 36px;
+}
+
+.cta-title {
+	margin-bottom: 50px;
+}
+
+.cta {
+	background-color: #1E2028;
+	height: 370px;
+	width: 100%;
+	padding: 50px 0;
+	margin-bottom: 50px;
+	margin-top: 50px; 
+}

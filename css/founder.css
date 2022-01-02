@@ -1,0 +1,109 @@
+.founder {
+	height: 1049px;
+	width: 100%;
+}
+
+.founder-people-item {
+	display: flex;
+	margin-bottom: 25px;
+}
+
+.founder-item-title {
+	text-align: right;
+	margin-left: 39px;
+	margin-right: 13px;
+}
+
+.founder-item-title h3 {
+	margin-top: 256px;
+	margin-right: 13px;
+	margin-bottom: 0;
+}
+
+.founder-item-title p {
+	width: 228px;
+	margin-top: 10px;
+}
+
+.founder-people-first {
+	margin-right: 25px;
+}
+
+.founder-people-item-second {
+	display: flex;
+}
+
+.founder-item-title-second {
+	text-align: right;
+	margin-right: 13px;
+}
+
+.founder-item-title-second h3 {
+	margin-top: 186px;
+	margin-bottom: 0;
+}
+
+.founder-item-title-second p {
+	width: 267px;
+	margin-top: 10px;
+}
+
+.founder-people {
+	display: flex;
+}
+
+.founder-people-item-three {
+	display: flex;
+}
+
+.founder-people-item-four {
+	display: flex;
+}
+
+.founder-item-title-three h3 {
+	margin-top: 256px;
+	margin-bottom: 0;
+}
+
+.founder-item-title-three p {
+	width: 256px;
+	margin-top: 10px;
+	margin-bottom: 0;
+}
+
+.founder-item-title-three {
+	margin-left: 14px;
+}
+
+.founder-people-item-three {
+	margin-top: 68px;
+	margin-bottom: 40px;
+}
+
+.founder-item-title-four h3 {
+	margin-top: 157px;
+}
+
+.founder-item-title-four {
+	margin-left: 14px;
+}
+
+.founder-item-title-four p {
+	width: 264px;
+}
+
+.founder-people-item-four {
+	margin-left: 5px;
+}
+
+.founder-title h2 {
+	margin: 0;
+	font-size: 50px;
+	line-height: 75px;
+	font-family: "Poppins-ExtraBold";
+}
+
+.founder-title {
+	text-align: center;
+	margin: 50px 0 50px 0;
+}

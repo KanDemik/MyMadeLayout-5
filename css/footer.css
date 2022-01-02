@@ -1,0 +1,93 @@
+.footer {
+	height: 287px;
+	width: 100%;
+	border-top: 1px solid #1E2028;
+}
+
+.footer-cont {
+	display: flex;
+	margin-top: 48px;
+	justify-content: space-between;
+	align-items: flex-start;
+}
+
+.footer-email h3 {
+	font-size: 18px;
+	line-height: 27px;
+	font-family: "Poppins-Medium";
+	margin: 0 0 20px 0;
+}
+
+.footer-links ul {
+	list-style-type: none;
+	margin-top: 0;
+}
+
+.footer-links ul:not(:last-child) {
+	margin-right: 120px;
+}
+
+.footer-links {
+	display: flex;
+}
+
+.footer-links li {
+	color: #fff;
+	font-size: 16px;
+	line-height: 24px;
+	font-family: "Poppins-Light";
+	margin-bottom: 10px;
+}
+
+.footer-title {
+	width: 209px;
+}
+
+.footer-title h3 {
+	font-size: 24px;
+	font-family: "Poppins-ExtraBold";
+	line-height: 36px;
+	margin: 0;
+}
+
+.footer-title p {
+	font-size: 14px;
+	line-height: 26px;
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+
+.footer-title-img img:not(:last-child){
+	margin-right: 10px;
+}
+
+.footer-links h4 {
+	font-size: 18px;
+	line-height: 27px;
+	font-family: "Poppins-Medium";
+	margin: 0 0 20px 0;
+}
+
+.footer-email input {
+	width: 255px;
+	height: 40px;
+	padding-left: 12px;
+	background-color: rgba(255, 255, 255, 0.2);
+	border: none;
+	border-radius: 8px;
+	font-size: 14px;
+	line-height: 21px;
+	font-family: "Poppins-Light";
+	color: #D9DBE1;
+}
+
+.footer-email-submit {
+	position: relative;
+}
+
+.footer-email-submit img {
+	position: absolute;
+	right: 3%;
+	bottom: 28%;
+	opacity: 20%;
+}

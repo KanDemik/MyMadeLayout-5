@@ -1,0 +1,50 @@
+.about {
+	width: 100%;
+	height: 525px;
+	margin: 50px 0 50px 0;
+}
+
+.about-menu {
+	display: flex;
+	justify-content: space-between;
+}
+
+.about-menu-trainers {
+}
+
+.about-trainers {
+	display: flex;
+	margin-bottom: 30px;
+}
+
+.about-title h2 {
+	font-size: 50px;
+	font-family: "Poppins-ExtraBold";
+	line-height: 70px;
+	width: 332px;
+}
+
+.about-trainers-text h3 {
+	font-size: 28px;
+	font-family: "Poppins-SemiBold";
+	line-height: 42px;
+	margin: 0;
+}
+
+.about-trainers-text p {
+	width: 440px;
+	font-size: 16px;
+	line-height: 30px;
+	font-family: "Poppins-Light";
+}
+
+.about-trainers-img {
+	width: 70px;
+	height: 70px;
+	background-color: rgba(30, 32, 40, 1);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-radius: 50%;
+	margin-right: 30px;
+}
